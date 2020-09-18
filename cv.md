@@ -4,6 +4,8 @@ aleksey.goravskiy@gmail.com
 Skype: live:aleksey.goravskiy  
 [LinkedIn][5]   
 
+## О себе  
+Junior web-developer. Начинал изучение программирования с .Net, имею опыт разработки веб-приложений с использованием ASP.NET MVC, Entity Framework. Моя цель: стать full-stack разработчиком, но на данном этапе хотелось бы сфокусироваться на изучении front-end технологий.
 
 ## Опыт работы  
 
