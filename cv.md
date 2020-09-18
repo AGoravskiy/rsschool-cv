@@ -1,7 +1,7 @@
 # Алексей Горавский
 +375 (44) 7031454  
 aleksey.goravskiy@gmail.com  
-Skype: live:aleksey.goravskiy  
+Skype: aleksey.goravskiy  
 [LinkedIn][5]   
 
 ## О себе  
